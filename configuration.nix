@@ -113,7 +113,7 @@
     enable = true;
     config = {
       user.name = "Muddyf0x";
-      user.email = "fuchs.lars@protonmail.com";
+      user.email = "dev.muddy@tuta.com";
       init.defaultBranch = "main";
       pull.rebase = true;
     };
