@@ -15,7 +15,7 @@ in
   programs.bash = {
     enable = true;
     shellAliases = {
-      neofetch = "fastfetch";
+      btw = "fastfetch";
     };
   };
 
@@ -32,5 +32,6 @@ in
     nodejs
     gcc
     fastfetch
+    anki
   ];
 }
