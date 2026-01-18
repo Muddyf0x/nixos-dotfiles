@@ -33,5 +33,10 @@ in
     gcc
     fastfetch
     anki
+    
   ];
+  programs.steam = {
+    enable = true;
+    gamescopeSession.enable = true;
+  };
 }
